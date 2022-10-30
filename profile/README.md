@@ -1,7 +1,8 @@
 ## WalletConnect meets Self-Sovereign Identity (ETHLisboan 2022 Submission from walt.id) 👋
 
 The following sequence diagram outlines the exchange of [Decentralized Identifiers](https://www.w3.org/TR/did-core/) and [W3C Verifiable Credentials](https://www.w3.org/TR/vc-data-model/) between a SSI Wallet and a DAPP in order to authenticate an individual in a decentralized way. The authentication-protocol has been invented in the scope of https://www.ethlisbon.org/
-![ssi-wallet-connect](https://user-images.githubusercontent.com/55081379/198846619-45d5016e-3977-457e-a6cb-3112e3a33a35.png)
+
+![Untitled](https://user-images.githubusercontent.com/55081379/198869898-a133f22b-3eba-44bc-be49-002d0cabff7b.png)
 
 
 
